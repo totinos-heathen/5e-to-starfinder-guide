@@ -32,7 +32,7 @@ This is your primary source of information.
 * Adds many other options for gear
 * Class options (envoy, mechanic, mystic, operative, solarian, soldier, technomancer)
 
-### Tech Revolution
+### Tech Revolution (TRV)
 **Impact:** Adds more tech and new mechs, but "if you really want to play with mechs find another TTRPG" is what I've heard.
 
 * New class: Nanocyte
@@ -41,7 +41,7 @@ This is your primary source of information.
 * New gear
 * Lore about tech
 
-### Galactic Magic
+### Galactic Magic (GMG)
 **Impact:** Can be significant for spell-casters.
 
 * New class: Precog
@@ -50,3 +50,4 @@ This is your primary source of information.
 * New spells (mystic, technomancer, witchwarper)
 * Variant spell-casting: big boost for level-0 combat spells if your GM permits
 * Lore about magic
+* New archetype
