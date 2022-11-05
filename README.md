@@ -22,15 +22,35 @@ It shows the numerical bonus or penalty of advantage and disadvantage in 5e, at 
 
 Starfinder however is linear in its bonuses and penalties. If you have a +3 bonus, it applies equally regardless if the DC is 10 or 18.
 
-#### The quick take: situational bonuses are less effective for easy checks, but more important and effective for harder checks.
+#### The quick take: Situational bonuses are less effective for easy checks, but more important and effective for harder checks.
 
 ### Bonuses
 
-That's not the only difference. When 5e does add modifiers instead of advantage, they all combine together. Starfinder is like this, mostly. But sometimes, only certain bonuses may apply. This is because of **bonus types**, found on page 266 of the Core Rulebook (CRB). For example, two morale bonus types won't stack, even if they come from different sources, because you can only have one thing affecting your morale. Penalties and bonuses do not interact however, and penalties often do stack when they are of different causes.
+That's not the only difference. When 5e does add modifiers instead of advantage, they all combine together. Starfinder is like this, mostly. But sometimes only certain bonuses can take effect. This is because of **bonus types**, found on page 266 of the Core Rulebook (CRB). For example, two morale bonus types won't stack, even if they come from different sources, because you can only have one thing affecting your morale. The notable exception to this is circumstantial bonuses, which can stack if they are because of different circumstances. Do note, penalties and bonuses do not interact, and penalties often do stack when they are of different causes.
 
-### Summary
+#### The quick take: Expect Starfinder DCs and ACs to scale with you. As you level up, so do your challenges, and the numbers you have to beat scale linearly as much as your skills and abilities.
 
-Expect Starfinder DCs and ACs to scale with you. As you level up, so do your challenges, and the numbers you have to beat scale linearly as much as your skills and abilities.
+## Combat
+
+Starfinder is a much more tactical game than 5e. By this, I mean that in Starfinder, location, movement, cover, etc. are much more impactful and consequential. In other words, there are less options to directly deal damage, and more options to improve your chances to deal damage.
+
+### Bonuses and Penalties
+
+Because "advantage" and "disadvantage" are not things in Starfinder, and since circumstantial bonuses and penalties can stack, you can and are expected to use every edge you have to apply bonuses to yourself and penalties to your enemies. And the rules reflect this. There are bonuses for flanking, bonuses for different types of cover, penalties for being surprised, penalties for being knocked off-kilter in zero-gravity, and so on and so forth.
+
+You cannot and will not remember each source of bonus or penalty. But you can have your character specific bonuses marked down on your character sheet, and bring up the sources in question as needed. From there, the GM can determine the resulting bonuses and penalties.
+
+#### The quick take: Ask if a bonus would apply when you think a bonus could apply. The GM won't remember everything about every character, but they will know the general rules around what size a bonus would be.
+
+### Weaponry and Magic
+
+While the Galactic Magic sourcebook (GMG) has partially addressed this, the fact is that level 0 spells (equivalent to cantrips in 5e) will not usually cut it for dealing damage as a spell caster. Some higher level spells can deal a fair bit of damage, but remember the universe: why take the years of training to learn fireball when you can go out and buy a rocket launcher tomorrow? Magic is not a good source of damage in most cases. Rather, it is largely meant to improve your chances on and off the battlefield.
+
+So if magic isn't what causes damage, what does? Grenades. Guns. Grenade guns. Big hitty sticks. Small pokey things. Basically, any weapon you could imagine, it's there. And like any gun, the bigger guns deal more damage than the smaller guns.
+
+This is a problem for some classes that only have proficiency in Small Arms. Unless you're the operative, Small Arms (one-handed guns) will deal much less damage than Longarms (light two-handed guns). My recommendation is no matter your class, get a longarm and get proficiency in a longarm.
+
+#### The quick take: Get a gun. A bigger gun, if you can. Unless you like hitting things directly. Then you do you.
 
 ## Sourcebooks
 
