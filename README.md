@@ -48,7 +48,7 @@ While the Galactic Magic sourcebook (GMG) has partially addressed this, the fact
 
 So if magic isn't what causes damage, what does? Grenades. Guns. Grenade guns. Big hitty sticks. Small pokey things. Basically, any weapon you could imagine, it's there. And like any gun, the bigger guns deal more damage than the smaller guns.
 
-This is a problem for some classes that only have proficiency in Small Arms. Unless you're the operative, Small Arms (one-handed guns) will deal much less damage than Longarms (light two-handed guns). My recommendation is no matter your class, get a longarm and get proficiency in a longarm.
+This is a problem for some classes that only have proficiency in Small Arms. Unless you're the operative, Small Arms (one-handed guns) will deal much less damage than Longarms (light two-handed guns). My recommendation is to get a longarm and get proficiency in a longarm with your first feat.
 
 #### The quick take: Get a gun. A bigger gun, if you can. Unless you like hitting things directly. Then you do you.
 
