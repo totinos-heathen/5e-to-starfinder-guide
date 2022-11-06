@@ -42,16 +42,6 @@ You cannot and will not remember each source of bonus or penalty. But you can ha
 
 #### The quick take: Ask if a bonus would apply when you think a bonus could apply. The GM won't remember everything about every character, but they will know the general rules around what size a bonus would be.
 
-### Weaponry and Magic
-
-While the Galactic Magic sourcebook (GMG) has partially addressed this, the fact is that level 0 spells (equivalent to cantrips in 5e) will not usually cut it for dealing damage as a spell caster. Some higher level spells can deal a fair bit of damage, but remember the universe: why take the years of training to learn fireball when you can go out and buy a rocket launcher tomorrow? Magic is not a good source of damage in most cases. Rather, it is largely meant to improve your chances on and off the battlefield.
-
-So if magic isn't what causes damage, what does? Grenades. Guns. Grenade guns. Big hitty sticks. Small pokey things. Basically, any weapon you could imagine, it's there. And like any gun, the bigger guns deal more damage than the smaller guns.
-
-This is a problem for some classes that only have proficiency in Small Arms. Unless you're the operative, Small Arms (one-handed guns) will deal much less damage than Longarms (light two-handed guns). My recommendation is to get a longarm and get proficiency in a longarm with your first feat.
-
-#### The quick take: Get a gun. A bigger gun, if you can. Unless you like hitting things directly. Then you do you.
-
 ### Ready, Set, Action!
 
 Here is a handy cheatsheet for combat actions: https://www.reddit.com/r/starfinder_rpg/comments/fuwi0j/oc_starfinder_cheat_sheet/
@@ -91,6 +81,16 @@ The rules for dying, stabilization, and death are quite different from 5e. Howev
 Read page 250 in the CRB for more information on death and dying, but the basic idea is if you are at 0 HP and 0 Resolve Points, you are dead.
 
 #### The quick take: Use up your Stamina Points, avoid using up your Hit Points, and be very careful of going below a quarter of your Resolve Points. 
+
+### Weaponry and Magic
+
+While the Galactic Magic sourcebook (GMG) has partially addressed this, the fact is that level 0 spells (equivalent to cantrips in 5e) will not usually cut it for dealing damage as a spell caster. Some higher level spells can deal a fair bit of damage, but remember the universe: why take the years of training to learn fireball when you can go out and buy a rocket launcher tomorrow? Magic is not a good source of damage in most cases. Rather, it is largely meant to improve your chances on and off the battlefield.
+
+So if magic isn't what causes damage, what does? Grenades. Guns. Grenade guns. Big hitty sticks. Small pokey things. Basically, any weapon you could imagine, it's there. And like any gun, the bigger guns deal more damage than the smaller guns.
+
+This is a problem for some classes that only have proficiency in Small Arms. Unless you're the operative, Small Arms (one-handed guns) will deal much less damage than Longarms (light two-handed guns). My recommendation is to get a longarm and get proficiency in a longarm with your first feat.
+
+#### The quick take: Get a gun. A bigger gun, if you can. Unless you like hitting things directly. Then you do you.
 
 ## Sourcebooks
 
