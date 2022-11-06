@@ -4,15 +4,35 @@
 
 So you want to play Starfinder! That's great! However, if your only experience with TTRPGs is mostly limited to D&D 5e (referred to as 5e from here on), there's going to be some differences, which I'll outline here.
 
+**Disclaimer**: I've done my best to be as accurate as possible, but in the event of a rules conflict, your GM knows best, followed by the Core Rulebook. Do not rely on this document to be a comprehensive guide.
+
 Let's get started!
 
 ## Rolling Dice
 
-Starfinder determines the result of "checks" much like D&D: you roll a d20, add modifiers, and if the number matches or exceeds the difficulty class (DC) or armor class (AC), the check succeeds. If not, the check fails.
+### Check Please! (Ability Checks, Skill Checks, Attack Rolls, and Saving Throws)
 
-However, Starfinder is much more specific than 5e about specific situations. As such, instead of granting advantage when a character is more likely to succeed or disadvantage when a character is more likely to fail, Starfinder bestows **bonuses** and **penalties**.
+Starfinder determines the result of "checks" much like D&D: you roll a d20, add modifiers (bonuses and penalties), and if the number matches or exceeds the difficulty class (DC) or armor class (AC), the check succeeds. If not, the check fails. Like 5e, Starfinder has the same six ability scores (strength, dexterity, constitution, intelligence, wisdom, charisma). The modifier conversion is the same as well (a score of 10 is a modifier of +0, 8 is -1, and 12 is +1). And there are saving throws, ability checks, attack rolls, and skill checks that add your ability modifier. In fact, ability checks are exactly the same: roll a d20, and add your ability modifier. However, the similarities mostly end there. 
 
-### How Should I Interpret Numbers?
+Let's start with Saving Throws. Instead of having a saving throw for each ability score, there are now only three types of saving throws: Fortitude, Reflex, and Will, corresponding to Constitution, Dexterity, and Wisdom saving throws respectively. All other saving throws are equivalent to one of these, or to a skill or ability check. Like 5e, succeeding at a saving throw either negates entirely or partially negates an adverse effect. But unlike 5e, characters are not considered "proficient" or "not proficient" in saving throws. Rather, your class determines a base saving throw modifier for each type of saving throw at each level.
+
+Likewise, since Starfinder does not have the concept of a "proficiency bonus," attack rolls are affected by what's called a "Base Attack Bonus" (BAB), determined by your class in a similar fashion to the saving throw bonuses. In addition, attack rolls also are affected by your strength or dexterity modifier, depending on the weapon being used. Be aware: spells that roll to attack, unless stated otherwise, use either the strength or dexterity modifier depending on whether it's melee range.
+
+Skill checks are the most involved. Your total skill bonus consists of:
+* **Skill Ranks**: Each level-up, you can spend skill ranks (earned based on intelligence modifier and class) on your skills, investing no more ranks total than your current level. Each rank provides a +1 bonus to the total skill bonus.
+* **Trained Class Skill Bonus**: Your class defines what skills are considered "class skills." If at least one skill rank is invested in a class skill, it becomes a trained class skill, providing an additional +3 bonus.
+* **Associated Ability Score Modifier**: Each skill has an associated ability score. You'll recognize some skills (Athletics, Stealth, Perception) which will have the same associated ability (strength, dexterity, and wisdom for the aforementioned), but others will not be familiar to you. The ability score modifier is added to the total skill bonus.
+* **Other Modifiers**: Your character's race, items, feats, spell effects, and circumstances can all factor into the total skill bonus. Of particular note is the "armor check penalty." Certain skills (Acrobatics, Athletics, Sleight of Hand, Stealth) are affected when you wear bulky armor. That armor will have an Armor Check Penalty (ACP) modifier that gets added to the total skill bonus. But these modifiers can be positive too; consider "Aid Another." If the GM allows, you can make a DC 10 skill check performing the same action as the character you're helping, and add a +2 bonus to their check if you succeed. 
+
+Another major difference in Starfinder is the Take 10 and Take 20 rule for skill checks. If you are not in immediate danger or distracted, the GM can allow you to take 10 on the skill check, meaning your score is the total you would get as if you had rolled a 10. The idea is that routine and simple tasks for your character are hard to fail.
+
+Taking 20 is like taking 10, but it means that you have plenty of time to devote to the task (20 times as long as the time for a single check) and it assumes that you are failing multiple times before you succeed. The upside is that instead of 10 plus your total skill bonus, it's 20.
+
+#### The quick take: Every time you roll a d20, add the bonuses that apply. Many of these bonuses are determined by your level and your class.
+
+### Advantage and Disadvantage: A Vantage Point
+
+Starfinder is much more specific than 5e about specific situations. As such, instead of granting advantage when a character is more likely to succeed or disadvantage when a character is more likely to fail, Starfinder bestows more bonuses and penalties. So how should you understand what a "+2" bonus means when in 5e you would receive advantage in a similar situation?
 
 Consider the following chart:
 
@@ -22,7 +42,7 @@ It shows the numerical bonus or penalty of advantage and disadvantage in 5e, at 
 
 Starfinder however is linear in its bonuses and penalties. If you have a +3 bonus, it applies equally regardless if the DC is 10 or 18.
 
-#### The quick take: Situational bonuses are less effective for easy checks, but more important and effective for harder checks.
+#### The quick take: Situational bonuses are less effective than advantage for easy checks, but more important and effective for harder checks.
 
 ### Bonuses
 
@@ -42,7 +62,7 @@ You cannot and will not remember each source of bonus or penalty. But you can ha
 
 #### The quick take: Ask if a bonus would apply when you think a bonus could apply. The GM won't remember everything about every character, but they will know the general rules around what size a bonus would be.
 
-### Ready, Set, Action!
+### Ready, Set, Action! (Actions During Combat)
 
 Here is a handy cheatsheet for combat actions: https://www.reddit.com/r/starfinder_rpg/comments/fuwi0j/oc_starfinder_cheat_sheet/
 I've reposted it here as well:
