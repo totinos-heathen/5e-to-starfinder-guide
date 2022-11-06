@@ -2,7 +2,7 @@
 
 ## Introduction
 
-So you want to play Starfinder! That's great! However, if your only experience with TTRPGs is mostly limited to D&D 5e (referred to as 5e from here on), there's going to be some differences. If not, there'll still be differences, but you'll know how to cope with them.
+So you want to play Starfinder! That's great! However, if your only experience with TTRPGs is mostly limited to D&D 5e (referred to as 5e from here on), there's going to be some differences, which I'll outline here.
 
 Let's get started!
 
@@ -76,6 +76,21 @@ For spellcasters,
 In addition, there are several actions/full actions that aren't in 5e (charge, fight defensively, several of the combat maneuvers).
 
 #### The quick take: Just read the cheatsheet.
+
+### Life and Death
+
+Starfinder is very different from 5e in that healing is not nearly as critical. This is because you have two health pools, Stamina Points (SP) and Hit Points (HP). In addition, your character will have a number of Resolve Points, which are related but not equivalent to health. Your SP are generally very comparable to your HP in terms of size, but they regenerate much more quickly. They are also where damage is typically allocated first. The quickest way to restore them is by spending 1 Resolve Point during a 10-minute uninterrupted rest (the equivalent of the 1-hour 5e short rest).
+
+HP on the other hand regenerates much slower than HP in 5e, which is quite significant. For example, after an 8-hour rest, all SP and Resolve Points are restored, but only 1 HP per level is restored. At level 1 for an Ysoki Technomancer (one of the lowest starting HP builds), that's still only 1/7 of their total HP. So think of HP like your capacity for wounds, and SP as your readiness and energy.
+
+The rules for dying, stabilization, and death are quite different from 5e. However, the similarities are:
+* If you're stable, you're safe and at 0 HP for now. However, Starfinder makes long term stability without healing much more dangerous, requiring a Constitution check after 1 hour.
+* If you take damage reducing you to 0 HP, if the remaining damage exceeds your maximum health, you die instantly.
+* Healing a character that is dying or stable brings them back up, as if they had never been reduced to 0 HP.
+
+Read page 250 in the CRB for more information on death and dying, but the basic idea is if you are at 0 HP and 0 Resolve Points, you are dead.
+
+#### The quick take: Use up your Stamina Points, avoid using up your Hit Points, and be very careful of going below a quarter of your Resolve Points. 
 
 ## Sourcebooks
 
