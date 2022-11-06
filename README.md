@@ -52,6 +52,31 @@ This is a problem for some classes that only have proficiency in Small Arms. Unl
 
 #### The quick take: Get a gun. A bigger gun, if you can. Unless you like hitting things directly. Then you do you.
 
+### Ready, Set, Action!
+
+Here is a handy cheatsheet for combat actions: https://www.reddit.com/r/starfinder_rpg/comments/fuwi0j/oc_starfinder_cheat_sheet/
+I've reposted it here as well:
+
+![Combat actions cheatsheet](https://user-images.githubusercontent.com/64822111/200154251-ec82ede0-b334-46f9-ad8e-b4fc08a24348.png)
+
+Many of the actions in Starfinder are similar to those in 5e. However, they are not the same. Some key differences:
+
+* Movement cannot normally be split around an attack. Either you move then attack, or attack then move.
+* Full actions are used in place of your standard action, move action, and swift action. There's no comparable "uber-action" in 5e.
+* Attacks of opportunity are provoked by **any** movement out of a threatened **square** other than a guarded step (move action) or the first step of a withdraw action (full action). Note, by "any" this means forced movement of any kind provokes attacks of opportunity, and "square" means that even if you remain in the threat zone of the opponent, simply moving out of a threatened square provokes the attack of opportunity.
+* Attacks of opportunity are also provoked by ranged attacks and spells/spell-like abilities, unless noted otherwise.
+* Recovering from being prone (standing up) is normally a move action.
+* Standard actions cannot be converted to extra movement speed, other than through full actions (run and withdraw). Combined with the previous point, this means that unless you have one of the Kip-Up feats, you cannot stand up from prone and move on the same turn.
+* Drawing your weapon consumes your movement action unless you have a base attack bonus of +1 or higher. This doesn't matter much past levels 1 and 2.
+
+For spellcasters,
+* Concentrating on a spell is much more taxing. Each round, you must spend your standard action to concentrate on the spell.
+* Dismissing a spell is much more taxing as well; it takes a standard action to dismiss a spell. However, dismissing a concentration spell does *not* cost a standard action, as dismissing it just means not concentrating on it.
+
+In addition, there are several actions/full actions that aren't in 5e (charge, fight defensively, several of the combat maneuvers).
+
+#### The quick take: Just read the cheatsheet.
+
 ## Sourcebooks
 
 By gear, I mean weapons, armor, armor upgrades, augmentations, weapon fusions, tech items, magic items, hybrid items, drugs, etc.
