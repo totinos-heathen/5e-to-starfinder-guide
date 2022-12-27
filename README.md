@@ -54,6 +54,24 @@ That's not the only difference. When 5e does add modifiers instead of advantage,
 
 #### The quick take: Expect Starfinder DCs and ACs to scale with you. As you level up, so do your challenges, and the numbers you have to beat scale linearly as much as your skills and abilities.
 
+## Character Building
+
+Starfinder has a great guide to the steps of character building in the Core Rulebook, Chapter 2 (page 14). Broadly speaking, there are three major components to your character: class, race, and theme. Optionally, there are archetypes, but if this is your first time playing Starfinder I recommend against them.
+
+### Class
+
+There are currently (as of end of 2022) *thirteen* classes in Starfinder. Of these, I recommend the classes in the core rulebook (Envoy, Mechanic, Mystic, Operative, Solarian, Soldier, and Technomancer) for new players. New players may also consider the classes in the Character Operations Manual (Biohacker, Vanguard, Witchwarper) if they're feeling spicy or if it's a better fit for them, with the awareness that there are less guides and information sources out there on the internet for them.
+
+Classes universally determine several key statistics and numbers:
+* Key Ability Score: This is the ability score that most, if not all, of your class abilities will depend on. The higher it is, the more powerful your class abilities are. In addition, your number of Resolve Points will depend on this score. Your Resolve Points help keep you from dying and are a resource for advanced abilities. Your key ability score should always be your highest ability score.
+* Hit Points and Stamina Points per Level: While we'll get into the specifics of hit points and stamina points in the [Life and Death](#life-and-death) section of the Combat section, just know that the more you have, the harder you are to take down.
+* Skill Ranks per Level: All classes gain "some number" plus your intelligence modifier of skill ranks per level. That "some number" represents how skill oriented your class is. Generally, 8 is the higher end and 4 is the lower end for this number.
+* Class Skills: These are the skills your class is proficient in. In other words, you gain a **+3** bonus to that skill *if* you have a skill rank in it. In other words, it provides an edge that other classes may not get.
+* Armor and Weapon Proficiencies: Your class will define what armors and weapons you will be proficient in. The summary is that if you wear an armor or wield a weapon you are *not* proficient in, you take a **-4** penalty to the related checks and DCs (Armor Class, attack rolls, and DCs of saving throws for that weapon). Oof! Keep in mind, you can normally only gain proficiencies through feats.
+* Weapon Specializations: Proficiencies are punishing if you don't have them. Conversely, specializations are rewarding if you do have them. Every class gains specializations for their weapon proficiencies in at 3rd level (other than grenades). For small arms and operative melee weapons, you get half your character level rounded down added to your damage. For other weapons, you get your character level added to your damage. Nice! Like proficiencies, weapon specializations are normally only earned through feats.
+* Base Attack Bonus: Instead of all classes having the same proficiency bonus that's added to your attack roll (like in 5e), Starfinder has a Base Attack Bonus (BAB). Depending on your class, you will have either a BAB that scales 1:1 with your level (at level 8 you have a +8 bonus), or a BAB that scales 3/4 of your level rounded down (at level 8 you have a +6 bonus). A BAB scaling 1:1 typically means your class is oriented more towards straight attacking with weapons in combat.
+* Save Bonuses: Instead of having individual saving throws per ability score, there are only three types of saving throws: Fortitude, Reflex, and Will. And instead of proficiencies, your save bonus determines what additional numbers you add to your saving throw (in addition to the matching ability score modifiers of Constitution, Dexterity, and Wisdom respectively). There are two types of progressions of save bonuses: Good and Poor (my terms). There's no clear mathematical pattern to them, but generally each class will have one or two Good progressions, and at least one Poor progression. Spellcasters tend to have only one Good progression of save bonuses compared to other classes.
+
 ## Combat
 
 Starfinder is a much more tactical game than 5e. By this, I mean that in Starfinder, location, movement, cover, etc. are much more impactful and consequential. In other words, there are less options to directly deal damage, and more options to improve your chances to deal damage.
