@@ -6,6 +6,10 @@ So you want to play Starfinder! That's great! However, if your only experience w
 
 **Disclaimer**: I've done my best to be as accurate as possible, but in the event of a rules conflict, your GM knows best, followed by the Core Rulebook. Do not rely on this document to be a comprehensive guide.
 
+If you want a brief overview, an auto-generated table of contents is available in the top left:
+
+![Table of Contents Location](https://user-images.githubusercontent.com/64822111/209716125-ab3a3bf1-37a3-4172-a80f-e8ae52c1bfd8.png)
+
 Let's get started!
 
 ## Rolling Dice
