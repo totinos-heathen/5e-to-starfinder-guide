@@ -72,6 +72,17 @@ Classes universally determine several key statistics and numbers:
 * Base Attack Bonus: Instead of all classes having the same proficiency bonus that's added to your attack roll (like in 5e), Starfinder has a Base Attack Bonus (BAB). Depending on your class, you will have either a BAB that scales 1:1 with your level (at level 8 you have a +8 bonus), or a BAB that scales 3/4 of your level rounded down (at level 8 you have a +6 bonus). A BAB scaling 1:1 typically means your class is oriented more towards straight attacking with weapons in combat.
 * Save Bonuses: Instead of having individual saving throws per ability score, there are only three types of saving throws: Fortitude, Reflex, and Will. And instead of proficiencies, your save bonus determines what additional numbers you add to your saving throw (in addition to the matching ability score modifiers of Constitution, Dexterity, and Wisdom respectively). There are two types of progressions of save bonuses: Good and Poor (my terms). There's no clear mathematical pattern to them, but generally each class will have one or two Good progressions, and at least one Poor progression. Spellcasters tend to have only one Good progression of save bonuses compared to other classes.
 
+### Race
+
+Like D&D, race is more a representation of species. There are many, many races/species in Starfinder. Of course, you have the typical D&D races (Dwarves, Elves, Gnomes, Half-Elves, Half-Orcs, and Halflings, found on page 506 in the core rulebook), but the more common races in the Pact Worlds (the core setting of Starfinder) are Androids, Humans, Kasathas, Lashuntas, Shirrens, Vesk, and Ysoki. Beyond that, there are even more options, but generally each race can be boiled down to some core concepts.
+
+* Size and Type: Most races in Starfinder are a small or medium humanoid with a subtype specific to their race. However, this is not always the case.
+* Hit Points: At level 1, your starting HP is equal to the hit points here added to the hit points in your class description.
+* Racial Traits: Your race will have various positive and rarely sometimes negative abilities.
+* Lore: This is the section that describes the culture and personalities common in the race. It may mention here as well if there are specific languages common to the race.
+
+In addition, some sourcebooks will have additional options for specific races. The Character Operations Manual, for instance, has additional racial traits that can be swapped out for the core rulebook races.
+
 ## Combat
 
 Starfinder is a much more tactical game than 5e. By this, I mean that in Starfinder, location, movement, cover, etc. are much more impactful and consequential. In other words, there are less options to directly deal damage, and more options to improve your chances to deal damage.
