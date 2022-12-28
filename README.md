@@ -72,6 +72,26 @@ Classes universally determine several key statistics and numbers:
 * Base Attack Bonus: Instead of all classes having the same proficiency bonus that's added to your attack roll (like in 5e), Starfinder has a Base Attack Bonus (BAB). Depending on your class, you will have either a BAB that scales 1:1 with your level (at level 8 you have a +8 bonus), or a BAB that scales 3/4 of your level rounded down (at level 8 you have a +6 bonus). A BAB scaling 1:1 typically means your class is oriented more towards straight attacking with weapons in combat.
 * Save Bonuses: Instead of having individual saving throws per ability score, there are only three types of saving throws: Fortitude, Reflex, and Will. And instead of proficiencies, your save bonus determines what additional numbers you add to your saving throw (in addition to the matching ability score modifiers of Constitution, Dexterity, and Wisdom respectively). There are two types of progressions of save bonuses: Good and Poor (my terms). There's no clear mathematical pattern to them, but generally each class will have one or two Good progressions, and at least one Poor progression. Spellcasters tend to have only one Good progression of save bonuses compared to other classes.
 
+All classes will also grant special abilities. These abilities usually have a classification of one of the following:
+* Extraordinary Abilities (Ex)
+* Spell-Like Abilities (Sp)
+* Supernatural Abilities (Su)
+
+These classifications are further described on page 262 of the core rulebook. Here's the quick and dirty rundown though:
+
+| Condition | Extraordinary Abilities (Ex) | Spell-Like Abilities (Sp) | Supernatural Abilities (Su) |
+| :--- | :---: | :---: | :---: |
+| Can be dispelled by *dispel magic* | No | Yes | No |
+| Can be resisted by Spell Resistance | No | Yes | No |
+| Functions in areas where magic is suppressed or negated | Yes | No | No |
+
+
+#### Spellcasting
+
+In addition, certain classes will have spellcasting. Spellcasters (currently Mystic, Precog, Technomancer, and Witchwarper) will have a limited number of spell slots per day. Like in 5e, spell slots are regained through extended rest, specifically, 8 hours of continuous rest and 15 minutes of concentration after this rest period.
+
+All spellcasters will have a limited library of spells they pick out every level up. However, unlike 5e you do not have to "prepare" spells ahead of time. All the spells you know can be cast as long as you have the requisite spell slot.
+
 ### Race
 
 Like D&D, race is more a representation of species. There are many, many races/species in Starfinder. Of course, you have the typical D&D races (Dwarves, Elves, Gnomes, Half-Elves, Half-Orcs, and Halflings, found on page 506 in the core rulebook), but the more common races in the Pact Worlds (the core setting of Starfinder) are Androids, Humans, Kasathas, Lashuntas, Shirrens, Vesk, and Ysoki. Beyond that, there are even more options, but generally each race can be boiled down to some core concepts.
