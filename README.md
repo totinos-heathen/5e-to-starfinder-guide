@@ -83,6 +83,15 @@ Like D&D, race is more a representation of species. There are many, many races/s
 
 In addition, some sourcebooks will have additional options for specific races. The Character Operations Manual, for instance, has additional racial traits that can be swapped out for the core rulebook races.
 
+### Theme
+
+Theme corresponds with 5e's backgrounds, though theme in Starfinder is a little more impactful and present. Your theme represents an element of your character's backstory, as well as your character's focus. All themes provide the following:
+
+* Ability Score Adjustment: Each theme provides a +1 adjustment to one of your ability scores at character creation.
+* Bonus Class Skill: At first level, a skill relevant to the theme is provided either as a class skill or, if it is already a class skill from your current class, a flat +1 bonus.
+* Theme Knowledge: You are granted a bonus to a subset of skill checks for a specific skill. This can take many forms however, such as Bounty Hunter's bonus to information on a specific target.
+* Special Benefits: There are additional benefits granted by the theme at 6th, 12th, and 18th level.
+
 ## Combat
 
 Starfinder is a much more tactical game than 5e. By this, I mean that in Starfinder, location, movement, cover, etc. are much more impactful and consequential. In other words, there are less options to directly deal damage, and more options to improve your chances to deal damage.
